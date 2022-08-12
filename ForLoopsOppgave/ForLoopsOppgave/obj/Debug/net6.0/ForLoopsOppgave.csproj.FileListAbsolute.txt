@@ -1,0 +1,15 @@
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\bin\Debug\net6.0\ForLoopsOppgave.exe
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\bin\Debug\net6.0\ForLoopsOppgave.deps.json
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\bin\Debug\net6.0\ForLoopsOppgave.runtimeconfig.json
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\bin\Debug\net6.0\ForLoopsOppgave.dll
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\bin\Debug\net6.0\ForLoopsOppgave.pdb
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.csproj.AssemblyReference.cache
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.AssemblyInfoInputs.cache
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.AssemblyInfo.cs
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.csproj.CoreCompileInputs.cache
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.dll
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\refint\ForLoopsOppgave.dll
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.pdb
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ForLoopsOppgave.genruntimeconfig.cache
+C:\Users\erikt\source\repos\Week1\ForLoopsOppgave\ForLoopsOppgave\obj\Debug\net6.0\ref\ForLoopsOppgave.dll
