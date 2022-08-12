@@ -1,0 +1,15 @@
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\bin\Debug\net6.0\ParprogrammeringMedMarija.exe
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\bin\Debug\net6.0\ParprogrammeringMedMarija.deps.json
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\bin\Debug\net6.0\ParprogrammeringMedMarija.runtimeconfig.json
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\bin\Debug\net6.0\ParprogrammeringMedMarija.dll
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\bin\Debug\net6.0\ParprogrammeringMedMarija.pdb
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.csproj.AssemblyReference.cache
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.AssemblyInfoInputs.cache
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.AssemblyInfo.cs
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.csproj.CoreCompileInputs.cache
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.dll
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\refint\ParprogrammeringMedMarija.dll
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.pdb
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ParprogrammeringMedMarija.genruntimeconfig.cache
+C:\Users\erikt\source\repos\Week1\ParprogrammeringMedMarija\ParprogrammeringMedMarija\obj\Debug\net6.0\ref\ParprogrammeringMedMarija.dll
