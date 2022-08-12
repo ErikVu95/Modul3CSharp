@@ -1,0 +1,15 @@
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\bin\Debug\net6.0\IfElseOppgave2.exe
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\bin\Debug\net6.0\IfElseOppgave2.deps.json
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\bin\Debug\net6.0\IfElseOppgave2.runtimeconfig.json
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\bin\Debug\net6.0\IfElseOppgave2.dll
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\bin\Debug\net6.0\IfElseOppgave2.pdb
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.csproj.AssemblyReference.cache
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.AssemblyInfoInputs.cache
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.AssemblyInfo.cs
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.csproj.CoreCompileInputs.cache
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.dll
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\refint\IfElseOppgave2.dll
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.pdb
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\IfElseOppgave2.genruntimeconfig.cache
+C:\Users\erikt\source\repos\Week1\IfElseOppgave2\IfElseOppgave2\obj\Debug\net6.0\ref\IfElseOppgave2.dll
